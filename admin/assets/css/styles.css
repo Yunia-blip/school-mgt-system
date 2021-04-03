@@ -1,0 +1,31 @@
+.help-block{
+    color:red;
+}
+.position-relative input{
+    color:black;
+    font-weight: 500;
+}
+
+.position-relative textarea{
+    color:black;
+    font-weight: 500;
+}
+.footer-social{
+
+}
+.footer-social span:link {
+    background-color: yellow;
+  }
+  
+  .footer-social  span:visited {
+    background-color: cyan;
+  }
+  
+  .footer-social span:hover {
+    background-color: lightgreen;
+    cursor: pointer;
+  }
+  
+  .footer-social span:active {
+    background-color: hotpink;
+  } 
